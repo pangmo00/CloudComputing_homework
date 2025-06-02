@@ -6,4 +6,4 @@ function App() {
   return <GPACalculator />;
 }
 
-export default App;
+export default App;ㅜ
